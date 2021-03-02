@@ -1,7 +1,7 @@
 import Logo from "./Logo.js";
 // import logos_details from "./logos_details.js";
 
-export const logos_details = [
+const logos_details = [
     ["bitcoin.jpg", "Bitcoin Avenue", "Développement mobile"],
     ["malkyrs.jpg", "Malkyrs", "Jeu Vidéo"],
     ["storigin.jpg", "Storigin", "Conseil stratégie numérique"],
