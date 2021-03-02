@@ -2,20 +2,21 @@ import Logo from "./Logo.js";
 // import logos_details from "./logos_details.js";
 
 export const logos_details = [
-    ["404.jpg", "École 404", "Conseils et Formations"],
-    ["stn.jpg", "Startech Normandy", "Conseils et Formations"],
-    ["storigin.jpg", "Storigin", "Conseil stratégie numérique"],
     ["bitcoin.jpg", "Bitcoin Avenue", "Développement mobile"],
+    ["malkyrs.jpg", "Malkyrs", "Jeu Vidéo"],
+    ["storigin.jpg", "Storigin", "Conseil stratégie numérique"],
     ["evup.jpg", "EVUP", "Développement Web"],
     ["unep.jpg", "UNEP", "Développement Web"],
     ["redlab.jpg", "RED Lab", "Développement Web"],
     ["meal.jpg", "Meal Express", "Site e-commerce"],
     ["immo.jpg", "Immobilier du coin 50", "Site e-commerce"],
+    ["404.jpg", "École 404", "Conseils et Formations"],
     ["espace.jpg", "Espace Projet", "Conseils et Formations"],
-    ["storigin.jpg", "Storigin", "Conseils en stratégie numérique"],
-    ["eniscaen.jpg", "ENSICAEN", "Conseils et Formations"],
+    ["normandie.jpg", "Région Normandie", "Conseil stratégie numérique"],
     ["linportant.jpg", "Linportant", "Développement Spécifique"],
-    ["malkyrs.jpg", "Malkyrs", "Jeu Vidéo"],
+    ["stn.jpg", "Startech Normandy", "Conseils et Formations"],
+    ["storigin.jpg", "Storigin", "Conseils en stratégie numérique"],
+    ["ensicaen.jpg", "ENSICAEN", "Conseils et Formations"],
 ];
 
 // create an array of logo objects
